@@ -1,3 +1,6 @@
+# crt
+ca.crt
+ca.key
 # Logs
 logs
 *.log

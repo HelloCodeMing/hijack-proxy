@@ -17,8 +17,8 @@ const logger = log4js.getLogger();
 const proxy_ip = 'localhost';
 const http_proxy_port = 8080;
 const https_proxy_port = 8081;
-const key_path = './ca.key';
-const cert_path = './ca.crt';
+const key_path = './douban.key';
+const cert_path = './douban.crt';
 
 /**
  * dump request

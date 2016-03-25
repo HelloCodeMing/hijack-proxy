@@ -1,6 +1,7 @@
 # crt
-ca.crt
-ca.key
+*.crt
+*.key
+*.csr
 # Logs
 logs
 *.log
